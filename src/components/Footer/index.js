@@ -20,8 +20,8 @@ const Footer = () => {
         Coding Tips | Career Guidance | Tech Updates 
       </h3>
       <p className="mt-5 px-4 text-center w-full sm:w-3/5 font-light dark:font-medium text-sm sm:text-base">
-        Subscribe to learn about new technology and updates. Join over 1000+
-        members community to stay up to date with latest news.
+        {/* Subscribe to our newsletter to learn about new technologies. Join over 1000+ members community to stay up to date with the latest news. */}
+        Subscribe to our <b>Newsletter</b> and join over <b>5000+ members</b> of community to stay up to date with the latest in <b>Tech</b> & <b>Programming</b>. 
       </p>
 
       <form
